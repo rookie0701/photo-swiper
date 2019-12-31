@@ -54,7 +54,7 @@ li{
 }
 .minbox li:nth-child(2){
 	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsRrC.jpg);
-	-webkit-transform:rotateX(180deg) translateZ(50px);
+	-webkit-transform:rotateX(90deg) translateZ(50px);
 }
 .minbox li:nth-child(3){
 	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/Asows.jpg);

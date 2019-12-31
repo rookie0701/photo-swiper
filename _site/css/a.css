@@ -49,51 +49,51 @@ li{
 	background-size: 100% 100%;
 }
 .minbox li:nth-child(1){
-	background-image: url(../img/01.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsQgS.jpg);
 	-webkit-transform:translateZ(50px);
 }
 .minbox li:nth-child(2){
-	background-image: url(../img/02.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsRrC.jpg);
 	-webkit-transform:rotateX(180deg) translateZ(50px);
 }
 .minbox li:nth-child(3){
-	background-image: url(../img/03.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/Asows.jpg);
 	-webkit-transform:rotateX(-90deg) translateZ(50px);
 }
 .minbox li:nth-child(4){
-	background-image: url(../img/04.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/As7RR.jpg);
 	-webkit-transform:rotateX(90deg) translateZ(50px);
 }
 .minbox li:nth-child(5){
-	background-image: url(../img/05.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsSbN.jpg);
 	-webkit-transform:rotateY(-90deg) translateZ(50px);
 }
 .minbox li:nth-child(6){
-	background-image: url(../img/06.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsgmB.jpg);
 	-webkit-transform:rotateY(90deg) translateZ(50px);
 }
 .maxbox li:nth-child(1){
-	background-image: url(../img/1.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsMpn.jpg);
 	-webkit-transform:translateZ(50px);
 }
 .maxbox li:nth-child(2){
-	background-image: url(../img/2.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsPOA.jpg);
 	-webkit-transform:translateZ(50px);
 }
 .maxbox li:nth-child(3){
-	background-image: url(../img/3.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsZlT.jpg);
 	-webkit-transform:rotateX(-90deg) translateZ(50px);
 }
 .maxbox li:nth-child(4){
-	background-image: url(../img/4.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/As7RR.jpg);
 	-webkit-transform:rotateX(90deg) translateZ(50px);
 }
 .maxbox li:nth-child(5){
-	background-image: url(../img/5.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsSbN.jpg);
 	-webkit-transform:rotateY(-90deg) translateZ(50px);
 }
 .maxbox li:nth-child(6){
-	background-image: url(../img/6.jpg);
+	background-image: url(https://cdn.img.wenhairu.com/images/2019/12/31/AsgmB.jpg);
 	-webkit-transform:rotateY(90deg) translateZ(50px);
 }
 .maxbox{
